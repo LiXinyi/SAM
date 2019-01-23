@@ -3,6 +3,6 @@ The datasets contain log-scale SAM volume measurements, binary SNP genotypes at 
 These data support the data analysis in the manuscript "Additive Partially Linear Models for Ultra-high-dimensional Regression".
 
 To read the .rda files, use command 
-"> load(file="SAM_RNA_Seq.rda")"
-"> load(file="SAM_SNP.rda")"
+"load(file="SAM_RNA_Seq.rda")"
+"load(file="SAM_SNP.rda")"
 in R.
